@@ -21,4 +21,5 @@ The goal of this project is to raise awareness and promote safe online behavior 
 - Cybersecurity_Awareness_Guide.pdf
 
 # Author
-Muhammad Fauzil a. 
+**Muhammad Fauzil Adhim**
+GitHub: https://github.com/fauzildev
